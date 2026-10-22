@@ -1,0 +1,9 @@
+# Claves: NUNCA subir a GitHub
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
